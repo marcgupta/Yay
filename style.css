@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+background-color: aqua;
+}
+p {
+    color:chocolate;
+    border-style:dotted;
+    border-color: black;
+    background-color: chartreuse;
+}
